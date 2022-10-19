@@ -1,0 +1,4 @@
+baseURL = "https://marcoyxz.github.ip/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "PaperMod"
