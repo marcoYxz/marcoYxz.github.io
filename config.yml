@@ -7,6 +7,7 @@ keywords: ['personal', 'tech', 'blog']
 ShowReadingTime: true
 ShowCodeCopyButtons: true
 comments: true
+publishDir: "docs"
 
 params:
   defaultTheme: auto
