@@ -1,0 +1,21 @@
+baseURL: "https://marcoyxz.github.io/"
+languageCode: "en-us"
+title: "My New Hugo Site"
+theme: "PaperMod"
+author: 'Marco Zhan'
+keywords: ['personal', 'tech', 'blog']
+ShowReadingTime: true
+ShowCodeCopyButtons: true
+comments: true
+
+params:
+  defaultTheme: auto
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons: # optional
+    - name: "GitHub"
+      url: "https://github.com/marcoYxz"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/marcozhan/"
