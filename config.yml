@@ -13,7 +13,6 @@ disqusShortname: https-marcoyxz-github-io
 params:
   defaultTheme: auto
   homeInfoParams:
-    Title: marco's tech blog
     Content: Disorganised tech blog about whatever interesting stuff I encountered
 
   socialIcons: # optional
