@@ -1,3 +1,7 @@
+title: "Test1"
+date: 2022-10-23T14:40:14+08:00
+draft: false
+
 # marco's tech blog
 
 ## Technologies
