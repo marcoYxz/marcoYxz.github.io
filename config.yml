@@ -1,6 +1,6 @@
 baseURL: "https://marcoyxz.github.io/"
 languageCode: "en-us"
-title: "My New Hugo Site"
+title: "marco's tech blog"
 theme: "PaperMod"
 author: 'Marco Zhan'
 keywords: ['personal', 'tech', 'blog']
@@ -8,12 +8,13 @@ ShowReadingTime: true
 ShowCodeCopyButtons: true
 comments: true
 publishDir: "docs"
+disqusShortname: https-marcoyxz-github-io
 
 params:
   defaultTheme: auto
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: marco's tech blog
+    Content: Disorganised tech blog about whatever interesting stuff I encountered
 
   socialIcons: # optional
     - name: "GitHub"
